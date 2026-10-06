@@ -14,3 +14,7 @@ A lightweight Python module designed to simulate a government digital identity v
 1. Clone this repository:
    ```bash
    git clone [https://github.com/cezekakpu7871-code/digital-identity-verification.git](https://github.com/cezekakpu7871-code/digital-identity-verification.git)
+
+   ## Author
+- **Developer:** Chisomeme Ezekakpu
+- **Contact:** c.ezekakpu7871@miva.edu.ng
