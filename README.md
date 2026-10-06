@@ -17,4 +17,4 @@ A lightweight Python module designed to simulate a government digital identity v
 
    ## Author
 - **Developer:** Chisomeme Ezekakpu
-- **Contact:** c.ezekakpu7871@miva.edu.ng
+- **Contact:** ezekakpuchisomeme@gmail.com
